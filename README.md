@@ -1,26 +1,34 @@
 
 <!-- 💫 Welcome Section -->
-<h1 align="center">👋 Hi, I'm Amine Lhachimi , from Egypt 🇪🇬</h1>
+<h1 align="center">👋 Hi, I'm Amine Lhachimi , from Morocco 🇲🇦</h1>
 <h2 align="center">💻 Software Engineer | ASP.NET C# </h2>
 
-> *"Still learning. Still building. Still growing."*
+> *"Focused on building real applications and improving step by step."*
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Software+Engineer;Always+Learning+Something+New;Coding+%7C+Building+%7C+Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=ASP.NET+Developer;Building+Real+Projects;Always+Learning+and+Improving" />
 </p>
 
 
 ## About Me
 ```typescript
-
-const Tarek = {
-  role: "Software Engineering Student @ Programming Advices",
+const Amine = {
+  role: "Software Engineering Student",
+  focus: ".NET Development (WinForms & Web)",
   experience: {
-    desktop: "Build desktop apps from scratch",
-    web: "Frontend & Backend development"
+    desktop: "Building Windows Forms applications with real logic",
+    web: "Developing ASP.NET applications (Frontend & Backend)"
   },
-  goals: ["Master Full Stack", "Work on real projects", "Contribute to Open Source"],
-  motto: "Code. Learn. Build. Repeat."
+  currentWork: [
+    "Driver License Management System (Windows Forms)",
+    "Practicing Database Design & SQL Server"
+  ],
+  goals: [
+    "Become strong in backend development with .NET",
+    "Build complete real-world projects",
+    "Improve problem solving and clean code skills"
+  ],
+  mindset: "I focus on learning by building and understanding how systems work."
 };
 ```
 
