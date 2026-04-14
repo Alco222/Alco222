@@ -1,6 +1,6 @@
 
 <!-- 💫 Welcome Section -->
-<h1 align="center">👋 Hi, I'm Tarek Ahmed , from Egypt 🇪🇬</h1>
+<h1 align="center">👋 Hi, I'm Amine Lhachimi , from Egypt 🇪🇬</h1>
 <h2 align="center">💻 Software Engineer | ASP.NET C# </h2>
 
 > *"Still learning. Still building. Still growing."*
@@ -123,13 +123,13 @@ const Tarek = {
   <a href="https://www.linkedin.com/in/tarek-ahmed-el-56b0802a8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tarekahmedbit@gmail.com">
+  <a href="mailto:lhachimiamine7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 
-⭐ **From [TariqCodeBit](https://github.com/TariqCodeBit)**
+⭐ **From [Amine Lhachimi)**
 
 
 
