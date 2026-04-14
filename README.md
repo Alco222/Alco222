@@ -105,7 +105,7 @@ const Amine = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqCodeBit&layout=compact&theme=tokyonight" alt="Top languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alco222&layout=compact&theme=tokyonight" alt="Top languages" height="150"/>
 </div>
 
 
@@ -118,12 +118,12 @@ const Amine = {
 
 <div align="center">
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TariqCodeBit&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alco222&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=TariqCodeBit&theme=tokyonight" alt="GitHub streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Alco222&theme=tokyonight" alt="GitHub streak" height="180"/>
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=TariqCodeBit&theme=tokyo-night" height="250"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alco222&theme=tokyo-night" height="250"/>
 </div>
 
 ### 📫 Connect with Me
