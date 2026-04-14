@@ -104,9 +104,9 @@ const Amine = {
   <hr/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alco222&layout=compact&theme=tokyonight" alt="Top languages" height="150"/>
-</div>
+</div> -->
 
 
  <hr/>
