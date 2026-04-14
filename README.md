@@ -128,7 +128,7 @@ const Amine = {
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/tarek-ahmed-el-56b0802a8" target="_blank">
+  <a href="https://www.linkedin.com/in/amine-lhachimi-2446a1402" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lhachimiamine7@gmail.com">
