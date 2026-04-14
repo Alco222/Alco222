@@ -106,18 +106,11 @@ const Amine = {
 
 
 
-
- <hr/>
-
-
-
 ###
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Alco222&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-
+ 
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=Alco222&theme=tokyonight" alt="GitHub streak" height="180"/>
 
