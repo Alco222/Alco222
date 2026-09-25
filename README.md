@@ -12,25 +12,15 @@
 
 ## About Me
 
-const Amine = {
-  role: "Software Engineering Student",
-  focus: ".NET Development (WinForms & Web)",
-  experience: {
-    desktop: "Building Windows Forms applications with real logic",
-    web: "Developing ASP.NET applications (Frontend & Backend)"
-  },
-  currentWork: [
-    "Driver License Management System (Windows Forms)",
-    "Practicing Database Design & SQL Server"
-  ],
-  goals: [
-    "Become strong in backend development with .NET",
-    "Build complete real-world projects",
-    "Improve problem solving and clean code skills"
-  ],
-  mindset: "I focus on learning by building and understanding how systems work."
-};
+I'm a Software Engineering student focused on .NET development, with an interest in building desktop and web applications.
 
+I work with C#, .NET, ASP.NET, WinForms, SQL Server, and T-SQL, and I'm currently improving my skills by building real projects and practicing database design.
+
+I'm currently working on a Driver License Management System and practicing database development with SQL Server.
+
+My goals are to become stronger in backend development with .NET, build complete real-world applications, and improve my problem-solving and clean-code skills.
+
+I focus on learning by building and understanding how systems work.
 
 
  <div align="right">
