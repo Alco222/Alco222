@@ -11,7 +11,7 @@
 
 
 ## About Me
-```typescript
+
 const Amine = {
   role: "Software Engineering Student",
   focus: ".NET Development (WinForms & Web)",
@@ -30,7 +30,7 @@ const Amine = {
   ],
   mindset: "I focus on learning by building and understanding how systems work."
 };
-```
+
 
 
  <div align="right">
